@@ -1,0 +1,10 @@
+//Jingyu Huang
+//jhuan146
+
+The dnasearch.c file first read a text file with input file name and store the characters in the text file into a char array if the text file is valid, ignoring spaces or return. Then it reads in a pattern and search for it in the string and return the offsets where the pattern appears, then takes in another pattern and perform the same function until ctrl-d and no patterns are entered.
+
+The test_dnasearch.c tests the functions in hw3.c and dnasearch.c.
+
+The dnasearch.h file contains headers of functions used in dnasearch.c and hw3.c.
+
+The hw3.c file implement the overall process.

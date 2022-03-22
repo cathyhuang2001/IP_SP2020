@@ -1,0 +1,656 @@
+commit ab0ad17197d7cb78b26dd9dc071eea2546b86d6f
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Thu Apr 9 12:28:06 2020 -0400
+
+    using statements edited in language_model.cpp
+
+commit 72b64c1989739e96d7a411b868a1e9630bfe5789
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Thu Apr 9 12:27:37 2020 -0400
+
+    using statements edited in hw5.cpp
+
+commit ed6774077fc724e0ca5ffde5e09f59bcfd6cbcf8
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Thu Apr 9 12:22:09 2020 -0400
+
+    gitlog.txt updated
+
+commit bc6d9aab16d0963849ec483360517d27cd38b399
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Thu Apr 9 12:21:44 2020 -0400
+
+    unused using statement deleted
+
+commit 6b9fc78f3f0f16dc14aa2cad0b4fb7c13f15fad4
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Thu Apr 9 12:21:03 2020 -0400
+
+    comments edited in hw5.cpp
+
+commit 4dad8d72509fcf4708040f10529eb7af15fb1d59
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Wed Apr 8 22:56:06 2020 -0400
+
+    gitlot.txt updated
+
+commit 125b2df0ad39afc443f03391dccbe265e52d4041
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Wed Apr 8 22:55:44 2020 -0400
+
+    segmentation fault fixed in hw5.cpp
+
+commit ef6139bc007a7408d477746bb882348ea8557d38
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Wed Apr 8 21:36:11 2020 -0400
+
+    gitlog.txt updated
+
+commit 891909b807f051fc362ca09b56b1598eab6bafef
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Wed Apr 8 21:35:44 2020 -0400
+
+    error messages printed to cerr fixed in hw5.cpp
+
+commit 4d2cf13d371bbe60ea63a5a21b928d3492068032
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Wed Apr 8 21:28:35 2020 -0400
+
+    Makefile edited
+
+commit ed5a9e180510666ff4df8e74f1b75bb2dbe4fc3b
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Wed Apr 8 21:13:42 2020 -0400
+
+    gitlog.txt added
+
+commit 4467eac2301e1445971c7fa5c3c0b49a14877c02
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Wed Apr 8 21:12:21 2020 -0400
+
+    README updated
+
+commit 38e220b935e19c638499341966ee8ec56cde2864
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Wed Apr 8 21:09:24 2020 -0400
+
+    header for function f added in language_model.h
+
+commit 87b25b2470bebb645329f0ad26944dad397085ab
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Wed Apr 8 21:09:00 2020 -0400
+
+    function f implemented in language_model.cpp
+
+commit e1039d35b02bfefe4964c6ee2d26c85108fb468d
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Wed Apr 8 21:08:38 2020 -0400
+
+    all functions implemented in hw5.cpp
+
+commit 837ff5bbb886e7652ef17f6bb76cce2db63d7228
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Wed Apr 8 17:37:50 2020 -0400
+
+    language_model.cpp edited
+
+commit fd616ea3618f9bdbd671767b58efd30c2cbade91
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Wed Apr 8 17:37:27 2020 -0400
+
+    hw5.cpp edited for testing
+
+commit b03fcec206a5348edd576d3794886db3db7c50ae
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Wed Apr 8 17:37:09 2020 -0400
+
+    header files edited
+
+commit e4c6813e3e404d13ce33c7771a2f55bf21a74da5
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Wed Apr 8 15:05:03 2020 -0400
+
+    function for trigram vector added in hw5.cpp
+
+commit ad1f5ebe7f57c2cf0b620e7c53cfbf9b5e681e9a
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Wed Apr 8 10:42:26 2020 -0400
+
+    hw5.cpp edited
+
+commit a2922284b45e6c7882cb90e72eb26922423e04a0
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Wed Apr 8 10:07:09 2020 -0400
+
+    hw5.cpp edited
+
+commit 7cbe851ac0002c7318c5064a26c5c984ec1e86b3
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Wed Apr 8 09:50:09 2020 -0400
+
+    reading input function edited in hw5.cpp
+
+commit 8f4dd193d7dd1c56fc1edee5d5ba815e6810f5d2
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Tue Apr 7 22:13:25 2020 -0400
+
+    function headers edited in .h file
+
+commit 23f1cfe238c0b43c343bf984fd7abcccb19e910f
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Tue Apr 7 21:59:42 2020 -0400
+
+    special words added to input in hw5.cpp
+
+commit 0eb92639c5c1940385dc081d68e82e23622820af
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Tue Apr 7 21:39:31 2020 -0400
+
+    main function edited in hw5.cpp
+
+commit 6625b47eeebd44b6134d7601153e234f7d8b427e
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Tue Apr 7 21:16:19 2020 -0400
+
+    headers edited
+
+commit 94bf2867b031767fd9056c444595f3c75b7d8df8
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Tue Apr 7 21:16:02 2020 -0400
+
+    file edited
+
+commit cef56118e448512b2c4b3b966abb8e15f2e06f22
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Tue Apr 7 21:11:32 2020 -0400
+
+    reading input added in hw5.cpp
+
+commit 2fde884d63996ea9a0d4dcb017f66050bb91aa0f
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Tue Apr 7 21:11:10 2020 -0400
+
+    functions edited
+
+commit 0655363c8125345f6b1abe63d7b9a48123fdf99c
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Tue Apr 7 19:51:33 2020 -0400
+
+    function headers added
+
+commit dd7204832a6e581518579fc8479b0ba981acc8b2
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Tue Apr 7 19:18:53 2020 -0400
+
+    tiny_ex.txt added
+
+commit a36084e9f2afe60fdc9dfc7cecf381e616ec0119
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Tue Apr 7 19:18:36 2020 -0400
+
+    sl.txt added
+
+commit 8ee8bb7eedf1315d0b1f8821b37cc42127f288ad
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Tue Apr 7 19:18:22 2020 -0400
+
+    Makefile added
+
+commit df564ab7ddfcc1e6a3669bf8134cbb1374ad33de
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Tue Apr 7 19:18:04 2020 -0400
+
+    ge.txt added
+
+commit 2df92adeb0cba15f33550b301f44aa4a30450f3a
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Tue Apr 7 19:14:29 2020 -0400
+
+    README created
+
+commit 205e91797a75fdc01ceeff8f11232e97fa3063fa
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Tue Apr 7 19:13:48 2020 -0400
+
+    language_model.cpp added
+
+commit 8f65fe909696179f6abfdecc136ac25cb4011191
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Tue Apr 7 19:12:54 2020 -0400
+
+    header functions added
+
+commit 25c8a11cd65ded181f4719d151361654ab9d3342
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Tue Apr 7 19:12:03 2020 -0400
+
+    hw5.cpp added
+
+commit 73daecfc52d2ca8dec2415fbeb9ddcb5b1579668
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Thu Mar 5 20:13:33 2020 -0500
+
+    draft.c edited
+
+commit 0da902ba93cc153db82d7f1b296eb7452a61b8f0
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Wed Mar 4 09:47:13 2020 -0500
+
+    list.c edited
+
+commit 54648ece025597683ec79a764c29dfdcac768429
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Fri Feb 28 18:40:50 2020 -0500
+
+    Makefile edited
+
+commit 4bbd9543aeffcc3db9490bc355a4b6272f1a26d4
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Fri Feb 28 18:33:06 2020 -0500
+
+    README edited with details
+
+commit a046cdbe285e9e47c5c45f188d57e0b220f9adf5
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Fri Feb 28 18:07:16 2020 -0500
+
+    hw3.c edited
+
+commit 478488ed365402c05ae40352bb22c3e843931cea
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Fri Feb 28 18:07:03 2020 -0500
+
+    match function edited in dnasearch.c
+
+commit 04bd76cd28ee01799f53ce3d1d437779757ec10f
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Thu Feb 27 11:28:58 2020 -0500
+
+    fixed compile problems in dnasearch.c
+
+commit 85b7e2224a89117b39b56f30521318dce86b7be9
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Thu Feb 27 10:48:03 2020 -0500
+
+    README added
+
+commit 2bb281436942acae91e44172f1bc9e805c56100f
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Thu Feb 27 10:47:22 2020 -0500
+
+    test_dnasearch.c added
+
+commit f6f5b41c8c9cc95e165d4878cb209f8e3a36f283
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Thu Feb 27 10:44:48 2020 -0500
+
+    dnasearch.c added
+
+commit 41433396a4bc848c1b56ba29617f1cee247e6fcb
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Wed Feb 26 22:20:34 2020 -0500
+
+    dnasearch.h added
+
+commit 0e6c514ec5bd4445c3f6066df0f9d7f3a2a18eda
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Wed Feb 26 22:11:02 2020 -0500
+
+    readFile function edited
+
+commit c47a969503262bbb8aa4b6d7bab5cf97768f0b2d
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Wed Feb 26 22:07:39 2020 -0500
+
+    pattern_match function edited
+
+commit c97b0790a32da3b3e0ed843298efb9e3b5e06133
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Mon Feb 24 09:47:49 2020 -0500
+
+    encrypt.c edited
+
+commit 698c6ea807165b70e01c8e1602894e300aa9b243
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Mon Feb 24 09:45:03 2020 -0500
+
+    encrypt.c edited
+
+commit a1b012d6020036dfdc97a1145f043f0b5ad6dc70
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Mon Feb 24 09:40:33 2020 -0500
+
+    encrypt.c completed
+
+commit 10420ca274595f00b12db34844d4caa9cead4c0a
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Sat Feb 22 17:06:32 2020 -0500
+
+    hw3.c readfile() function added
+
+commit 9b4d4a286deceadafe7cc47a1928e7f15aed2779
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Sat Feb 22 16:27:29 2020 -0500
+
+    hw3.c created
+
+commit 2a14ec318d46f30e7b0594b4856fef18b285ca09
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Fri Feb 21 09:38:13 2020 -0500
+
+    soccer.h edited
+
+commit 4afa4e5e0f3fd98bc6c15b1c598d666f761813b8
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Thu Feb 20 18:29:04 2020 -0500
+
+    primes.c corrected
+
+commit 335da6d22071b15c10a2807c2a1e71b839774f08
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Wed Feb 19 09:41:19 2020 -0500
+
+    pairwise_sum allocation problem fixed
+
+commit bff716c5cb3edd9ab064c27098b1be7a18472e89
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Tue Feb 18 23:17:29 2020 -0500
+
+    test.c completed
+
+commit 6d8d59727e869581f4122dbcf370182e86903cfc
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Mon Feb 17 09:33:40 2020 -0500
+
+    fixed str_rev2.c
+
+commit e1afa0629f7a1618662a6d54ff8fa55b7a0c64cd
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Mon Feb 17 09:02:05 2020 -0500
+
+    buggy.c fixed
+
+commit e6fb823fa5a3f044c13aa5b6cbc4377532de2015
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Mon Feb 17 08:48:53 2020 -0500
+
+    buggy.c created
+
+commit fd3a1b0ebb00e021745f3f55db2d3e785f8149e1
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Fri Feb 14 09:35:09 2020 -0500
+
+    created new file string_functions.c
+
+commit 6ead0ac4d4d069665618f0590f3acea77108cd43
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Fri Feb 14 09:33:04 2020 -0500
+
+    created new file string_functions.c
+
+commit aa66d45d0e7e16aaf090c7b8165e0634966e68f2
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Fri Feb 14 09:31:53 2020 -0500
+
+    created new file run_concat.c
+
+commit acb3e974c30111ea64794e5b5208b361849e9f59
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Wed Feb 12 15:19:02 2020 -0500
+
+    return to next line after error output added
+
+commit a3d688f3b6997c3ddb9d7ff5e146925557ca58ef
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Wed Feb 12 15:11:24 2020 -0500
+
+    check if first input is valid added
+
+commit bd435fde4cc53d16d2bf984e420626b26ab5975e
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Wed Feb 12 15:03:31 2020 -0500
+
+    deleted unused statements
+
+commit bbf47e7803e10ba856ccdef5cd1a5ad1f88126bc
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Wed Feb 12 14:26:59 2020 -0500
+
+    comments implemented in arithmetic.c
+
+commit b6118aaeeb3e4485ee04022dd25feb2d989f1bff
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Wed Feb 12 14:25:49 2020 -0500
+
+    comments added for arithmetic.c
+
+commit 62e122737fd11178bd557ed676e91d5b1416b62b
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Wed Feb 12 14:18:08 2020 -0500
+
+    code copied from draft3.c to arithmetic.c
+
+commit c02111d3f26bb6746efc577a9a33ed192a5ad311
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Wed Feb 12 14:13:03 2020 -0500
+
+    deleted test printf() statements
+
+commit 1388c90c0931fc89637ea075cb99f28a757d3411
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Wed Feb 12 14:07:43 2020 -0500
+
+    fixed while loop condition in draft3.c
+
+commit 408c614dad875bf59928c6cf220d4a40364af468
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Wed Feb 12 13:44:24 2020 -0500
+
+    draft3.c edited
+
+commit 303a9fdbd3ca20b87514eb13d1f74e51c4b97037
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Wed Feb 12 13:41:39 2020 -0500
+
+    draft3.c edited
+
+commit 9a4ff55900a9d7c97600a4e5d780983a3acb8ff6
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Wed Feb 12 13:37:23 2020 -0500
+
+    draft3.c edited
+
+commit 5b081468be8375f22ffbb2714a0b0a962128d8f1
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Wed Feb 12 11:11:38 2020 -0500
+
+    edited draft3.c
+
+commit 8075fd3567089610c0fddc8eeac0ae7cb31164a2
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Wed Feb 12 11:04:22 2020 -0500
+
+    edited draft3.c
+
+commit 584f45d57f1ce6440890d58cf5f1a1876838f329
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Wed Feb 12 11:00:17 2020 -0500
+
+    edited draft3.c
+
+commit 9306179241623e0e3fd624987045635246e88b32
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Wed Feb 12 09:20:05 2020 -0500
+
+    draft
+
+commit c96a2176e850e9ae6ef8d548a5035c5f396a5246
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Tue Feb 11 23:52:46 2020 -0500
+
+    draft3.c edited
+
+commit 928df0b7a41790bd9a6da639372e3f3024282d17
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Tue Feb 11 23:39:13 2020 -0500
+
+    new draft
+
+commit 4b3f0380d0fbe8e9ee7f75baa11beae5f7ee412a
+Merge: cca8c27 50d2344
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Tue Feb 11 22:31:56 2020 -0500
+
+    new file
+
+commit 50d2344cef69e9047d2e3a18bbcbea24cbd32e1a
+Author: Jingyu Huang <jhuan146@jhu.edu>
+Date:   Wed Feb 12 03:28:22 2020 +0000
+
+    draft3.c created online with Bitbucket
+
+commit cca8c270503daf9b62e8160a2fe1df56f2e7eaaa
+Merge: 268a543 5c35740
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Tue Feb 11 22:10:47 2020 -0500
+
+    draft2.c edited
+
+commit 5c35740fe996456b7b7f944cdb978695100ad1ca
+Author: Jingyu Huang <jhuan146@jhu.edu>
+Date:   Wed Feb 12 02:39:14 2020 +0000
+
+    draft2.c created online with Bitbucket
+
+commit 268a5435e644297828531285eac8ac9486808a8d
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Tue Feb 11 18:59:55 2020 -0500
+
+    draft.c edited
+
+commit a400a299f9df1416006f03cf69ac3cf1d0a47570
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Tue Feb 11 18:51:28 2020 -0500
+
+    draft.c edited
+
+commit 8090921334908636b297f3dd259b0f22cef31c90
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Tue Feb 11 18:48:56 2020 -0500
+
+    draft.c edited
+
+commit 5abe322ccfd2fd9df3e29d533eac940aa3659888
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Tue Feb 11 18:41:02 2020 -0500
+
+    draft.c edited
+
+commit 9f921bf6fa4efacff22ceeb1ec96fa2b520ee60e
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Tue Feb 11 18:37:57 2020 -0500
+
+    draft edited
+
+commit 57fa7dd8e00c444e83bfbe3f45cb7b0cf5e52d76
+Merge: a37a477 23baa41
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Tue Feb 11 18:36:41 2020 -0500
+
+    draft for arithmetic.c
+
+commit 23baa4117656cdba148a72d590015e9f857bcb64
+Author: Jingyu Huang <jhuan146@jhu.edu>
+Date:   Tue Feb 11 23:20:54 2020 +0000
+
+    draft.c created online with Bitbucket
+
+commit a37a477ff8d97f52375c78237f31a34c2b83ccc8
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Tue Feb 11 15:02:22 2020 -0500
+
+    string operation added
+
+commit 6dc79bdc753952ac63176ab4ef668448432492da
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Tue Feb 11 13:03:42 2020 -0500
+
+    Fixed loop in arithmetic.c
+
+commit d6ffa7012bfaf9178fad1c99c84bc4a144e28e56
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Tue Feb 11 12:44:43 2020 -0500
+
+    solve running problem in arithmetic.c
+
+commit 1c9aa3584efb4d0668a9fb611f100b44f43c711b
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Tue Feb 11 12:19:47 2020 -0500
+
+    arithmetic.c fix compilation error
+
+commit fb3e8f9e376049dc541898b8802c14fed814e56c
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Tue Feb 11 12:15:46 2020 -0500
+
+    arithmetic.c second draft
+
+commit 9d6743d016e1280a40ca2a63f60b79b2cde5a452
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Tue Feb 11 12:10:14 2020 -0500
+
+    arithmetic.c first draft
+
+commit ac19dab88bb81f1ec4c984870c65fa8045ab813c
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Tue Feb 11 11:58:04 2020 -0500
+
+    class evaluate() added
+
+commit 064f546f3dae6398559db78ad45300420b2385f5
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Tue Feb 11 11:37:20 2020 -0500
+
+    arithmetic.c edited
+
+commit b2ee9ad4229ba769cbd0bc8b5946278b732b5bda
+Author: Jingyu Huang <jhuan146@jhu.edu>
+Date:   Fri Feb 7 13:43:40 2020 +0000
+
+    arithmetic.c created online with Bitbucket
+
+commit 1e076b9119e46e9482dde63e1632ca1f42f75581
+Author: Jingyu Huang <jhuan146@jhu.edu>
+Date:   Tue Feb 4 05:06:49 2020 +0000
+
+    first.c created online with Bitbucket
+
+commit 055a02b7e3a42878a349d2ab283f8569d4e37c3c
+Author: Jingyu Huang <jhuan146@jhu.edu>
+Date:   Tue Feb 4 05:06:03 2020 +0000
+
+    second.c created online with Bitbucket
+
+commit af885b6e719b586c5eef2b48f1aba3ae2a55b950
+Author: Jingyu Huang <jhuan146@jhu.edu>
+Date:   Tue Feb 4 04:58:55 2020 +0000
+
+    third.c created online with Bitbucket
+
+commit bd3d5c207c229385f0083ad42f43902677a5d4c0
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Mon Feb 3 23:54:53 2020 -0500
+
+    updated README
+
+commit ac53dba8260a62e6c4801144f1206ef19f360608
+Author: Jingyu <jhuan146@jhu.edu>
+Date:   Mon Feb 3 23:53:09 2020 -0500
+
+    created README
+
+commit 7465ca030d75b72be809b958dd23955fdfb9b898
+Author: Jingyu Huang <jhuan146@jhu.edu>
+Date:   Tue Feb 4 04:50:51 2020 +0000
+
+    Initial commit

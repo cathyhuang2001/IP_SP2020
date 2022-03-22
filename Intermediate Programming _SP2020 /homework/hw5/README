@@ -1,0 +1,4 @@
+//Jingyu Huang
+//jhuan146
+
+In this program, I decided to read each trigram as a string and store it into a string vector. All outcomes match the expected ones, and there is no compile error.
